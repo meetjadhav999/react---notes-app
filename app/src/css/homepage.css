@@ -1,0 +1,21 @@
+.note{
+    width: 80%;
+
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #cccccc;
+    border-radius: 15px;
+}
+.deleteNote{
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 16px;
+    background-color: white;
+    color: red;
+    transition: 0.2s;
+}
+.deleteNote:hover{
+    background-color: rgba(255, 0, 0, 0.103) ;
+}

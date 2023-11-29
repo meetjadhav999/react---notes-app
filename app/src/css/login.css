@@ -1,0 +1,51 @@
+.login{
+    width:400px;
+    border-radius: 10px;
+    border: solid 3px #cccccc;
+    padding: 20px;
+
+    margin: 50px auto;
+
+}
+.login-form{
+    margin:auto;
+    width: auto;
+    width: 260px;
+}
+.login h1{
+    font-size: 30px;
+    color:#292929;
+    margin: 0;
+    text-align: center;
+    
+}
+
+.input{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 40px;
+    font-size: 16px;
+}
+.input:focus-visible{
+    outline: none;
+}
+.link{
+    margin-top: 20px;
+}
+.error{
+    background-color: rgb(255, 206, 206);
+    color: rgb(167, 0, 0);
+    height: 30px;
+    font-size: 16px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 10px auto;
+    padding: 5px;
+
+}
+.error p{
+    margin: 0;
+    text-align: center;
+}
